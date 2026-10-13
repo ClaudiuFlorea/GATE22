@@ -3,6 +3,14 @@
     <channel>
         <title>GATE22</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 13 Oct 2026 12:03:16 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ClaudiuFlorea/GATE22/releases/download/v1.0.2/GATE22-1.0.2.dmg" length="6182068" type="application/octet-stream" sparkle:edSignature="TRgDompRXb0epitKFZnGsRuCMBDIJgZuyXJbYRWJDtuflarNLZ51AroZh+RrqXNZHqu9F4rKAnW0huROUSx/AA=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 06 Oct 2026 12:27:21 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
