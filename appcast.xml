@@ -3,6 +3,14 @@
     <channel>
         <title>GATE22</title>
         <item>
+            <title>Terminat 2.0.0</title>
+            <pubDate>Tue, 20 Oct 2026 19:24:11 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ClaudiuFlorea/Terminat/releases/download/v2.0.0/Terminat-2.0.0.dmg" length="8017277" type="application/octet-stream" sparkle:edSignature="4isAMQbwmkKLjYXBbDwukVOftHXpXbyBmLXWkAo9UbDoKs+i1yUw2NakPhYlkuZeWwP2+WgjbR2eI9yNz/fYBw=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Tue, 13 Oct 2026 12:03:16 +0300</pubDate>
             <sparkle:version>3</sparkle:version>
