@@ -2,6 +2,14 @@
 
 All notable public GATE22 releases are documented here.
 
+## Terminat 2.0.0
+
+GATE22 has been renamed to **Terminat**.
+
+This repository's legacy Sparkle feed now bridges GATE22 1.x users to Terminat 2.0.0. Future releases and update metadata are published from:
+
+https://github.com/ClaudiuFlorea/Terminat
+
 ## 1.0.2
 
 Release hardening and SSH workflow improvements.
